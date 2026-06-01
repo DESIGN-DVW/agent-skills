@@ -5,7 +5,7 @@ Open-source Claude Code skills from [DVW Design](https://dvw.design).
 Each skill is a composable, installable unit that extends Claude Code with specialized workflows. Install any skill with the [Skills CLI](https://skills.sh/):
 
 ```bash
-npx skills add dvwdesign/agent-skills@<skill-name>
+npx skills add design-dvw/agent-skills@<skill-name>
 ```
 
 ---
@@ -14,7 +14,7 @@ npx skills add dvwdesign/agent-skills@<skill-name>
 
 | Skill | Description | Install |
 | ----- | ----------- | ------- |
-| [security-scan](skills/security-scan/) | Four-part security audit — CVE detection, secret scanning, code pattern analysis, config file audit. OWASP-mapped. | `npx skills add dvwdesign/agent-skills@security-scan` |
+| [security-scan](skills/security-scan/) | Four-part security audit — CVE detection, secret scanning, code pattern analysis, config file audit. OWASP-mapped. | `npx skills add design-dvw/agent-skills@security-scan` |
 
 ---
 
